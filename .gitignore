@@ -1,0 +1,6 @@
+# local agent/session state — not part of the project
+AGENTS.md
+.opencode/
+
+# dumped ROM images stay out of the repo
+ROMbkp/

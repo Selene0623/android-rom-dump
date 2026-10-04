@@ -1,0 +1,3 @@
+@echo off
+echo Cleaning previous data...
+if exist ROMbkp\nul del /q ROMbkp\*.img
